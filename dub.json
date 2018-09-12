@@ -1,0 +1,10 @@
+{
+	"name": "dlua",
+	"authors": [
+		"theoldmoon0602"
+	],
+	"description": "Lua C API binding library",
+	"license": "MIT",
+  "targetTypes": "library",
+  "libs": ["lua53"]
+}
